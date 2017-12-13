@@ -1,0 +1,45 @@
+nav ul
+{
+	margin:0;
+	padding:0;
+}
+nav ul li {
+	list-style-type: none;
+	float: left;
+	display: block;
+	width: 168px;
+	height: auto;
+	text-align: center;
+	line-height: 55px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 18px;
+}
+nav ul li a {
+	text-decoration:none;
+	color:#FFF;
+	background-color:#1a2c56;
+}
+nav ul li a:Hover {
+	text-decoration:none;
+	background-color:#FFCC66;
+	color:#FFF;
+	
+} 
+nav a {
+	display:block;
+}
+
+nav ul ul {
+	display:none;
+}
+nav ul li:Hover > ul {
+	display:block;
+}
+nav ul ul li {
+	width:168px;
+	height:50px;
+	line-height:50px;
+}
+
+	
+	

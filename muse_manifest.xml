@@ -1,0 +1,25 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.com" resolutions="1x" timestamp="1457887465322">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="6243370" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="pic1.jpg" crc="3855278961" seo="true" ref="index"/>
+    <file name="warden.jpg" crc="313023947" seo="true" ref="index"/>
+    <file name="picture1.jpg" crc="4012819959" seo="true" ref="index"/>
+    <file name="hod.jpg" crc="331911172" seo="true" ref="index"/>
+    <file name="student.jpg" crc="4140310337" seo="true" ref="index"/>
+  </folder>
+  <file name="index.php" crc="3771849955" seo="true" mt="1457887442871" redirect="true"/>
+</manifest>
